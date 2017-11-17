@@ -52,9 +52,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _Enemy:
-  - {fileID: 1689450677176460, guid: 376e411b68b2aef47bfcc2e5a98b3e88, type: 2}
-  - {fileID: 1862325061113780, guid: 788fcacc9b667d7498968d9d759d103e, type: 2}
-  - {fileID: 1554638394860690, guid: 6a4ec64c7e4ad6f48b643b2d9d0c9208, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   _enemyCount: []
   _instantiateEnemy: 50
   _timer: 0
